@@ -1,0 +1,1382 @@
+:: StoryTitle
+La girafe + infirmière ?
+
+
+:: StoryData
+{
+  "ifid": "c6e490c8-7d5f-4335-926a-7db87b998a19",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Introduction",
+  "zoom": 1
+}
+
+
+:: \ - Je préfère ne pas m'en mêler. {"position":"725,5150","size":"100,100"}
+- Je n'ai pas envie d'avoir de problèmes, ajoutes-tu.
+- Je comprends, répond ta maman, mais mets-toi à sa place. Comment te sentirais-tu ? Tu n'aimerais pas que ton ami te défende ou te soutienne ?
+Tu réalises alors que ta maman a raison. 
+- C'est vrai, dis-tu. S'ils continuent de l'embêter, j'essaierai de voir comment l'aider.
+- Bravo Frank, dit ta maman en te faisant un sourire. Et pour l'aider, tu peux aussi l'acompagner pour aller parler à la maîtresse.
+
+Durant l'après-midi, en classe, vous dessinez votre sous-main. C'est un moment sympa. Toutefois, tu remarques que de temps en temps, Rachel, Anaïs et Marcus font de petites remarques discrètes à Edouard en se moquant toujours de lui. Madame Tilbot de remarque rien mais toi, tu t'en rends bien compte. Tu te souviens de la discussion que tu as eue avec ta maman.
+A 16h00, la cloche sonne et vous dites au revoir et [[tu rentres chez toi. ]]
+
+
+:: \ l'école 2 {"position":"875,950","size":"100,100"}
+Arrivée à l'école, tu rejoins Laura et tes autres camarades dans les rangs du préau. Au bout de quelques minutes, la maîtresse arrive et vous fait entrer en classe. Elle vous explique le programme de la matinée et vous vous mettez au travail. Tu es contente de faire des exercices, ça te permet d'arrêter de penser aux moqueries des autres.
+
+Cependant, durant la journée, Derek et d'autres élèves te traitent de girafe et te font des remarques que tu n'apprécies pas. Rapidement, ce sentiment de tristesse mélangé à de la colère resurgit en toi. Tu te demandes combien de temps tu pourras supporter tout ça.
+
+A la fin de la journée, la cloche sonne. Que fais-tu ?
+
+[[Tu sors de la classe.->Variante droite]]
+OU
+[[Tu retournes parler à ta maîtresse.]]
+
+
+
+
+
+
+:: - Bah toi j'espère que tu seras bien malade ! {"position":"600,150","size":"100,100"}
+Derek te répond alors :
+- T'excite pas, c'est pas tous les jours qu'on voit des girafes!
+Là, d'autres élèves se mettent à rire.
+Tu es paniquée, tu ne sais plus comment réagir ! Tu as l'impression que toute l'école est contre toi. Les larmes aux yeux, désespérée, tu prends tes affaires et [[tu rentres chez toi.]]
+
+
+:: - C'est ce que j'ai fait ce matin, je suis allé dire à un surveillant. {"position":"375,5150","size":"100,100"}
+- Bravo, dit ta maman. Je te félicite. Et que s'est-il passé ensuite ?
+- M.Vanontini leur a dit de laisser tranquille Edouard et d'aller jouer ailleurs, réponds-tu.
+- Bon, c'est bien qu'il soit intervenu. Espérons que cela suffise... dit ta maman.
+
+Vous mangez ensemble puis, un peu plus tard, tu retournes à l'école.
+En classe, durant l'après-midi, vous dessinez votre sous-main. C'est un moment sympa. Toutefois, tu remarques que de temps en temps, Rachel, Anaïs et Marcus font de petites remarques discrètes à Edouard en se moquant toujours de lui. Monsieur Ségurion ne remarque rien mais toi, tu t'en rends bien compte.
+Puis, à 16h00, la cloche sonne et [[tu rentres chez toi. ]]
+
+
+
+:: - Ca a continué et maintenant ils envoient même des messages sur le téléphone. {"position":"500,5875","size":"100,100"}
+- Quoi ?! s'exclame ta maman. Ils ne se rendent sûrement pas compte des conséquences !
+- Comment ça ? demandes-tu.
+Ta maman t'explique alors que lorsqu'on est victime de moqueries à répétition, cela peut provoquer chez la personne du stress, de la tristesse ou même de l'angoisse. S'il y a plusieurs personnes qui s'en prennent à quelqu'un et que cela se répète, on parle de harcèlement, ça devient grave. En plus du stress, on peut avoir de la peine à dormir, se sentir mal à l'intérieur et c'est très important de tout faire pour sortir d'une situation comme ça et d'éviter que ça s'empire. 
+
+Tu discutes encore un petit moment avec ta maman et ça te fait du bien. Puis, tu vas te préparer pour [[aller te coucher.]] 
+
+
+:: - Ils ont continué à se moquer de lui. {"position":"350,5875","size":"100,100"}
+Ta maman t'encourage à dire à Edouard d'en parler au maître.
+- Il faut résoudre ce problème avant que la situation ne s'empire, dit ta maman. Je t'encourage aussi à dire à Edouard que tu es avec lui pour le soutenir.
+Tu lui dis que tu es d'accord avec elle puis tu vas te préprarer pour [[aller te coucher.]]
+
+
+
+
+:: - Je devrais dire à monsieur Ségurion {"position":"550,5325","size":"100,100"}
+- Tout à fait ! répond ta maman. C'est probablement la personne la mieux placée pour aider à résoudre les problèmes. Il peut aussi, si nécessaire, en parler aussi aux autres enseignants ou à l'éducatrice. Ton maître est aussi là pour faire en sorte que chaque élève se sente bien à l'école et il est important de lui dire lorsqu'il y a quelque chose qui ne va pas parce qu'il ne peut pas tout voir ou savoir !
+- D'accord, conclus-tu.
+
+Vous mangez ensemble puis, un peu plus tard, tu retournes à l'école.
+En classe, durant l'après-midi, vous dessinez votre sous-main. C'est un moment sympa. Toutefois, tu remarques que de temps en temps, Rachel, Anaïs et Marcus font de petites remarques discrètes à Edouard en se moquant toujours de lui. Monsieur Ségurion ne remarque rien mais toi, tu t'en rends bien compte.
+Puis, à 16h00, la cloche sonne et [[tu rentres chez toi. ]]
+
+
+
+:: - Je prends 5 francs par récréation, j'espère que tu as assez d'argent! {"position":"600,275","size":"100,100"}
+En disant cela, tu fais un grand sourire à Derek. Là, il ne sait plus quoi dire. 
+- Bien répondu ! dit une de tes camarades.
+//L'humour est en effet une bonne arme pour se défendre !//
+Puis, tu t'en vas et [[tu rentres chez toi.]]
+
+
+
+:: - Justement, ce matin je leur ai dit d'arrêter. {"position":"550,5150","size":"100,100"}
+- Bravo, dit ta maman. Je te félicite. Et ils ont arrêté après ?
+- Ils m'ont traité aussi de bébé et ils sont partis, réponds-tu.
+- Mmmmm.... Vouloir régler les problèmes entre vous, ça ne marche pas toujours. Et je n'aimerais pas qu'ils s'en prennent à toi non plus, dit ta maman. Qu'est-ce que tu pourrais faire pour éviter qu'ils continuent à s'en prendre à Edouard ou même à toi ?
+Tu réponds :
+
+[[- On devrait les éviter.]]
+OU
+[[- Je devrais dire à monsieur Ségurion]]
+
+
+:: - On devrait les éviter. {"position":"375,5325","size":"100,100"}
+- Oui, idéalement ce serait bien, dit ta maman. Mais à l'école il n'est pas toujours possible d'éviter les autres. Le problème risque de rester et de ne pas se résoudre. As-tu une autre idée ?
+Tu réponds :
+[[- Dire à Monsieur Ségurion ?->- Je devrais dire à monsieur Ségurion]]
+OU 
+[[- Se moquer d'eux aussi ?]]
+
+
+:: - Oui mais certains se moquent d'Edouard. {"position":"850,6150","size":"100,100"}
+- Comment ça ? Pourquoi ? demande ta maman.
+- Ca a commencé ce matin, quand Edouard est arrivé avec une peluche d'iguane accrochée à son sac, réponds-tu. Certains se sont mis à le traiter de lézard. 
+- Et c'était juste une fois ce matin ou ça a continué ? 
+- Ca continue encore maintenant sur le téléphone, ils envoient des messages sur le groupe.
+- Quoi ?! s'exclame alors ta maman visiblement choquée. Ils ne se rendent sûrement pas compte des conséquences !
+- Comment ça ? demandes-tu.
+Ta maman t'explique alors que lorsqu'on est victime de moqueries à répétition, cela peut provoquer chez la personne du stress, de la tristesse ou même de l'angoisse. S'il y a plusieurs personnes qui s'en prennent à quelqu'un et que cela se répète, on parle de harcèlement et ça peut devenir grave. En plus du stress, on peut avoir de la peine à dormir, se sentir mal à l'intérieur et c'est très important de tout faire pour sortir d'une situation comme ça et d'éviter que ça s'empire. 
+Tu discutes encore un petit moment avec elle et ça te fait du bien. Puis, tu vas te préparer pour [[aller te coucher.]] 
+
+
+:: - Oui, ça a été, on a dessiné notre sous-main. {"position":"1025,6075","size":"100,100"}
+- Ok super, dit ta maman.
+Vous continuez à discuter et chacun raconte comment s'est déroulée sa journée.
+Après manger, tu vas dans ta chambre pour jouer un petit moment avant d'aller au lit. Tu te mets alors à penser à Edouard. Comment se sent-il en ce moment ? Tu te dis que ça ne doit pas être facile de commencer l'année comme ça. 
+Au bout d'un moment, [[tu vas te coucher.->aller te coucher.]]
+
+
+:: - Se moquer d'eux aussi ? {"position":"450,5475","size":"100,100"}
+- Mais non ! s'exclame ta maman. Tu ne vas pas faire justement ce qui pose problème ! En faisant comme ça, tu ne vas faire qu'empirer la situation. A un moment donné, il est important d'en parler aux adultes de l'école, comme par exemple...
+[[- A Monsieur Ségurion ? demandes-tu.->- Je devrais dire à monsieur Ségurion]]
+
+
+
+:: - Super, Monsieur Ségurion nous a expliqué pleins de choses et c'était sympa. {"position":"400,4975","size":"100,100"}
+Ta maman est contente de savoir que tout va bien. Vous mangez ensemble puis, un peu plus tard, tu retournes à l'école.
+En classe, durant l'après-midi, vous dessinez votre sous-main. C'est un moment sympa. Toutefois, tu remarques que de temps en temps, Rachel, Anaïs et Marcus font de petites remarques discrètes à Edouard en se moquant toujours de lui. Monsieur Ségurion ne remarque rien mais toi, tu t'en rends bien compte.
+Puis, à 16h00, la cloche sonne et [[tu rentres chez toi.->Rien dit]]
+
+
+
+:: - Très bien, sauf que certains embêtent mon copain Edouard. {"position":"550,4975","size":"100,100"}
+- Ha bon ? Que font-ils ? demande ta maman.
+- Ils se moquent de lui parce qu'il est venu avec une nouvelle peluche. Ils le traitent d'Edouard le lézard, dis-tu.
+- Ca c'est pas très sympa, ajoute ta maman. En plus c'est ton copain, tu pourrais peut-être faire quelque chose ? 
+Tu réponds :
+
+[[- Justement, ce matin je leur ai dit d'arrêter.]]
+OU
+[[ - Je préfère ne pas m'en mêler.]]
+OU
+[[- C'est ce que j'ai fait ce matin, je suis allé dire à un surveillant.]]
+
+
+
+:: A 16h00, la cloche sonne. {"position":"575,2750","size":"100,100"}
+Tes camarades sortent de la classe. Tu prends ton temps pour prendre tes affaires puis tu te diriges vers ta maîtresse.
+Elle attend que tous les élèves soient sortis puis te propose d'expliquer précisément ce qui se passe depuis le début de l'année.
+Tu lui racontes alors toutes les moqueries que tu subis à propos de ta taille ainsi que les messages et les photos sur ton téléphone.
+Ta maîtresse t'écoute attentivement. Quand tu as fini, [[elle te félicite d'avoir eu le courage de raconter ce que tu vis et te dis : ]]
+
+
+:: Conclusion {"position":"1100,6600","size":"100,100"}
+(align:"=><=")+(box:"X")[<img src="https://tinypic.host/images/2024/09/27/temoin.jpg" alt="témoin" border="0">]
+
+Voilà ! Bravo pour ta lecture. Si tu le souhaites, tu peux recommencer l'histoire mais cette fois en tant que [[Juliette]]. Tu n'auras pas le même rôle...
+
+
+:: Elle te remercie beaucoup pour ton aide. {"position":"925,6600","size":"100,100"}
+Etre témoin de quelqu'un qui se fait harceler n'est pas une position facile.
+Voici quelques conseils :
+
+(align:"=><=")+(box:"X")[<img src="https://tinypic.host/images/2024/09/27/temoin.jpg" alt="témoin" border="0">]
+
+Voilà ! Bravo pour ta lecture. Si tu le souhaites, tu peux recommencer l'histoire mais cette fois en tant que [[Juliette]]. Tu n'auras pas le même rôle...
+
+
+:: En attendant, chacun se met au travail. {"position":"600,6600","size":"100,100"}
+Au bout d'un moment, Josiane toque à la porte et entre. Elle te demande de l'accompagner.
+Vous sortez de la classe et vous vous dirigez vers son local. En y allant, Josiane te dit de ne pas t'inquiéter, qu'[[elle veut juste avoir quelques informations.]]
+
+
+
+:: FIN {"position":"1075,6400","size":"100,100"}
+FELICITATIONS !! 
+Grâce à ton intervention, la situation d'harcèlement a pu prendre fin. En effet, ton maître a téléphoné aux parents d'Edouard et il a appris qu'Edouard n'était effectivement pas venu à l'école vendredi à cause de ces moqueries à répétition. Il ne dormait plus et avait mal au ventre. 
+Monsieur Ségurion a ensuite contacté Josiane, l'éducatrice, qui a pu par la suite discuter avec Edouard puis avec les trois élèves à l'origine des moqueries. Ces élèves n'avaient pas imaginé les conséquences de leurs actes. Ils ont promis d'arrêter immédiatement leurs moqueries et se sont engagés à changer d'attitude. Ils se sont aussi excusés auprès d'Edouard.
+
+[[Voici ce qu'il faut retenir dans ce genre de situation :->Conclusion]]
+
+
+
+:: Frank {"position":"600,3375","size":"100,100"}
+C'est la rentrée des classes ! Tu viens de passer un bel été et tu es prêt pour commencer cette nouvelle année scolaire. 
+Tu te réjouis de revoir tes copains et de découvrir ton nouvel enseignant, Monsieur Ségurion. Il paraît qu'il est très gentil !
+[[Tu arrives à l'école. ->arrivée]]
+
+
+
+:: Introduction {"position":"650,0","size":"100,100"}
+(align:"=><=")+(box:"=XXXXXXXX=")[(text-style:"underline")[RENTREE  SCOLAIRE]]
+
+''Bienvenue dans cette histoire dont tu vas être l'héroïne ou le héros !''
+
+Au fur et à mesure du récit, tu devras faire des choix en fonction des situations qui se présenteront. Ces options apparaîtront en bleu dans le texte. 
+En cliquant dessus, l'histoire se poursuivra. Fais les bons choix ! 
+
+Avant de commencer, choisis si tu veux être [[Juliette]] ou [[Frank]]. 
+
+
+
+
+
+
+
+:: Juliette {"position":"350,0","size":"100,100"}
+C'est la rentrée des classes ! Tu viens de passer un bel été et tu as bien grandi. Ta maman a d'ailleurs dû t'acheter de nouveaux habits ! 
+Un peu nerveuse à l'idée de revenir à l'école, tu te réjouis quand même de revoir tes amis et ta nouvelle maîtresse, Madame Tilbot.
+[[Tu arrives dans le préau et tu retrouves tes camarades.]]
+
+
+
+:: La maîtresse est gentille, contrairement à certains qui se moquent de toi. {"position":"1300,1100","size":"100,100"}
+- Comment ça, certains se moquent de toi ? demande ton papa. 
+- C'est à cause de ma taille, dis-tu avec une voix tremblante. Ils font des blagues parce que je suis grande et ça m'énerve.
+- C'est inadmissible, dit ta maman. On ne peut pas laisser des élèves se moquer de toi. 
+- Je suis d'accord avec toi, ajoute ton papa. Si demain ces moqueries continuent, il faudra prévenir ta maîtresse. 
+En parler à tes parents te fait monter les larmes aux yeux. 
+[[Tu dis à tes parents que tu en as déjà parlé à ta maîtresse.]]
+
+
+
+:: La maîtresse est très gentille et que tout va bien. {"position":"100,450","size":"100,100"}
+Tes parents sont contents que tout se soit bien passé. Mais tu ne parles pas beaucoup...  Après le repas, tu files dans ta chambre. Tu ne sais pas pourquoi tu ne leur as rien raconté. La honte ? La peur ? Tu te sens un peu perdue.
+
+C'est bientôt l'heure de dormir. Tu t'allonges sur ton lit mais tu n'arrives pas à penser à autre chose qu'à ces moqueries. Quelle horrible rentrée !! Tu es toute triste et tu te dis que tu aurais peut-être dû en parler à tes parents.
+Quelques instants plus tard, tu es dans ton lit et tu essaies de t'endormir. Difficilement...
+
+Le lendemain matin, fatiguée de la mauvaise nuit, tu repars pour [[l'école.]]
+
+
+
+
+:: La maîtresse est très gentille, contrairement à certains qui se moquent de toi. {"position":"525,400","size":"100,100"}
+- Comment ça, certains se moquent de toi ? demande ton papa. 
+- C'est à cause de ma taille, dis-tu avec une voix tremblante. Ils font des blagues parce que je suis grande et ça m'énerve.
+- C'est inadmissible, dit ta maman. On ne peut pas laisser des élèves se moquer de toi. 
+- Je suis d'accord avec toi, ajoute ton papa. Si demain ces moqueries continuent, il faudra prévenir ta maîtresse. 
+En parler à tes parents te fait monter les larmes aux yeux. Ils s'en aperçoivent et te prennent dans leurs bras. Ca te fait du bien, tu te sens un peu protégée.
+
+Que penses-tu des conseils de tes parents ?
+
+[[Tu es d'accord avec eux.]]
+OU
+[[Tu refuses d'en parler à la maîtresse car tu penses que cela ajoutera des problèmes.]]
+
+
+
+
+
+:: Lézard2 {"position":"1175,5525","size":"100,100"}
+"Excellent!" réagit quelqu'un. Puis "LOL !!!" ajoute un autre...
+De plus en plus d'autres messages et émojis apparaissent. 
+Tu réalises alors qu'il commence à y avoir beaucoup de monde qui se moque d'Edouard, dont toi en fait ! En effet, envoyer un émoji de lézard à la suite de moqueries fait de toi un complice... 
+Mets-toi à la place d'Edouard, comment te sentirais-tu à sa place ? 
+Tu as pris une mauvaise décision, reviens en arrière et [[fais un meilleur choix.->message 2]] 
+
+
+
+:: Monsieur Ségurion arrive alors au vestiaire. {"position":"950,5000","size":"100,100"}
+- J'ai entendu dire que certains embêtent Edouard ? dit monsieur Ségurion.
+Rachel, Anaïs et Marcus s'arrêtent alors de parler et mettent leurs chaussures. 
+- Edouard, ça va ? demande le maître.
+- oui... dit-il un peu gêné. C'est juste que j'en ai marre qu'on me traite de lézard.
+- Vous avez entendu ? dit le maître en regardant Rachel, Anaïs et Marcus. Je crois qu'Edouard a le droit d'être respecté et qu'on le traite pas de lézard ou je ne sais quoi. C'est compris ?
+Rachel ne dit rien, tandis qu'Anaïs et Marcus font oui de la tête.
+Le maître reste alors devant les vestiaires jusqu'à ce que la plupart des élèves soient partis. Puis, il se tourne vers toi et te dit :
+- Tu as bien fait de m'appeler Frank, je te remercie.
+Il se tourne ensuite vers Edouard et dit :
+- Edouard, n'hésite pas non plus à venir m'en parler si tu vois que certains élèves continuent de t'embêter. 
+- D'accord, répond Edouard.
+Vous sortez alors de l'école et [[vous partez tous les deux.]]
+
+
+:: Monsieur Ségurion arrive et vous vous dirigez en classe. {"position":"650,4600","size":"100,100"}
+Une fois assis à votre pupitre, le maître vous ditribue l'ensemble des fiches de mathématiques à détacher puis à insérer dans un classeur. 
+A 11h30, la cloche sonne et vous sortez vous préparer au vestiaire.
+Rachel, Anaïs et Marcus continuent d'appeler Edouard le lézard et de lui faire des commentaires pas très sympas. Que fais-tu ?
+
+[[Tu rentres chez toi.]]
+OU
+[[Tu attends Edouard pour sortir de l'école.]]
+OU
+[[Tu retournes en classe expliquer à monsieur Ségurion ce qui se passe.]]
+
+
+:: Retour {"position":"675,4875","size":"100,100"}
+Chez toi, ta maman te demande comment s'est passé cette matinée. Tu réponds :
+
+[[- Super, Monsieur Ségurion nous a expliqué pleins de choses et c'était sympa.]]
+OU
+[[- Très bien, sauf que certains embêtent mon copain Edouard.]]
+
+
+:: Rien dit {"position":"950,5400","size":"100,100"}
+Tu es dans ta chambre en train de faire tes devoirs lorsque soudain tu entends le son de ton téléphone qui indique l'arrivée d'un message. 
+Tu saisis ton téléphone et tu t'aperçois qu'il s'agit d'un message de Rachel envoyé dans le groupe de messagerie de la classe appelé "Classe de Monsieur Ségurion". [[Tu ouvres le message...->message 2]]
+
+
+:: Suite1 {"position":"1150,1450","size":"100,100"}
+A peine sorties de l'école, Laura et toi voyez un groupe d'élèves rassemblés autour de Derek. On dirait qu'il est en train de montrer quelque chose sur son téléphone.
+Autour de lui, tu remarques qu'il y a Alyia, Laurent et d'autres élèves de la classe parallèle. 
+Soudain, Alyia remarque ta présence et dit quelque chose aux autres que tu n'entends pas. Ils se mettent alors tous à rire. Comment réagis-tu ?
+
+[[Tu t'approches d'eux pour leur demander ce qu'il y a de drôle.->Suite2]]
+OU
+[[Tu demandes à Laura si elle veut bien aller voir ce qui se passe.->Suite3]]
+OU
+[[Tu décides de partir rapidement et de rentrer chez toi.->Suite4]]
+
+
+
+:: Suite10 {"position":"1150,2100","size":"100,100"}
+Le lendemain matin, tu arrives à l'école et les petits commentaires continuent. Tu essaies de garder ton calme. Tu as prévu d'aller parler à ta maîtresse à la fin de la journée.
+
+A 16h00, la cloche sonne. Tes camarades sortent de la classe. Tu prends ton temps pour prendre tes affaires puis tu te diriges vers ta maîtresse et tu lui demandes si tu peux lui parler.
+- Bien entendu Juliette, je t'écoute, répond la maîtresse.
+Tu lui racontes alors que les moqueries que tu subis depuis le début de l'année à propos de ta taille continuent et que tu reçois maintenant des messages et des photos sur ton téléphone.
+Ta maîtresse t'écoute attentivement. Quand tu as fini de parler, elle te dit qu'elle est vraiment désolée de ce qui t'arrive et elle te félicite d'être revenue lui parler et d'avoir eu le courage de raconter ce que tu vis. 
+[[Elle te dit ensuite : ->Suite11C]]
+
+
+
+:: Suite11 {"position":"850,2150","size":"100,100"}
+Le soir, pendant le repas, tu as mauvaise mine. Tes parents te demandent si quelque chose ne va pas.
+- Ca va, ça va, j'ai pas envie de parler, réponds-tu énervée. 
+- Qu'est-ce qui se passe Juliette ? Il s'est passé quelque chose à l'école ? te demande ta maman avec un regard inquiet. 
+- Laisse-moi tranquille ! insistes-tu, la voix tremblante.
+
+Tes parents n'insistent pas mais s'aperçoivent bien que tu leur caches quelque chose. 
+Après le repas, tu leur dis que tu es fatiguée et [[tu vas te coucher.->Suite11A]]
+
+
+
+:: Suite11A {"position":"1075,2625","size":"100,100"}
+Ce matin, tu te réveilles difficilement. Tu t'es réveillée plusieurs fois pendant la nuit et tu as mal dormi. Tu te demandes si tu vas supporter encore longtemps ces moqueries.
+Après ton petit-déjeuner, tu réalises qu'il est bientôt 8h00 et que l'école va commencer. Tu dis au revoir à tes parents qui partent eux aussi au travail et tu pars en courant. 
+[[Tu arrives à l'école juste à temps.->Suite11B]]
+
+
+
+:: Suite11B {"position":"1000,2800","size":"100,100"}
+Essouflée, tu te mets en rangs avec tes camarades. Derek s'exclame alors :
+- Bah dis donc Juliette, t'as réussi à t'échapper du zoo ?
+A nouveau, les autres se mettent à rire. 
+Tu es déjà au bord des larmes lorsque la maîtresse arrive et vous fait entrer en classe. 
+
+A la récréation, les moqueries continuent et tu t'isoles dans un coin du préau pour qu'on te laisse tranquille mais il y a toujours quelqu'un pour te faire une remarque. Tu réalises en effet que maintenant il y a d'autres élèves de l'école qui te traitent de girafe.
+
+A la fin de la journée, tu te rends compte que tu n'as pas suivi les leçons de Madame Tilbot, ta tête était ailleurs. La cloche sonne. Que fais-tu ?
+
+[[Tu rentres chez toi au plus vite.->Suite11B1]]
+OU
+[[Tu décides d'aller parler à la maîtresse.->Suite11B2]]
+
+
+
+:: Suite11B1 {"position":"1100,3000","size":"100,100"}
+Une fois à la maison, tu allumes ton téléphone et tu t'aperçois que tu es de nouveau dans le groupe de messages et que d'autres photos de girafes sont apparues, à chaque fois avec des commentaires. C'est alors que tu fonds en larmes. Tu n'en peux plus. Tu es épuisée et tu sens que tu ne maîtrises plus rien. 
+Tu te fais harceler à l'école et en ligne. C'est insupportable. Tu réalises que tu ne peux plus garder tout ça pour toi. Tu te lèves et [[tu vas dans le salon. ->Suite9]]
+
+
+
+
+:: Suite11B2 {"position":"1350,2900","size":"100,100"}
+Tes camarades sortent de la classe. Tu prends ton temps pour prendre tes affaires puis tu te diriges vers ta maîtresse et tu lui demandes si tu peux lui parler.
+- Bien entendu Juliette, je t'écoute, répond la maîtresse.
+Tu lui racontes alors que les moqueries que tu subis depuis le début de l'année à propos de ta taille continuent et que tu reçois maintenant des messages et des photos sur ton téléphone.
+Ta maîtresse t'écoute attentivement. Quand tu as fini de parler, elle te dit qu'elle est vraiment désolée de ce qui t'arrive et elle te félicite d'être revenue lui parler et d'avoir eu le courage de raconter ce que tu vis. 
+[[Elle te dit ensuite : ->Suite11C]]
+
+
+
+
+:: Suite11C {"position":"1525,3325","size":"100,100"}
+- Tu as bien fait de ne pas garder tout ça pour toi Juliette. Ce que tu vis est inacceptable et tu dois être protégée. Ce qui t'arrive n'est pas de ta faute. 
+Ta maîtresse t'annonce qu'elle va immédiatemment en discuter avec ses collègues pour [[agir au plus vite et le mieux possible.->situation.]]
+
+
+
+:: Suite12 {"position":"1325,2450","size":"100,100"}
+Tu es soulagée et en même temps un peu anxieuse de ce qui va se passer après. Tu crains d'avoir d'autres problèmes. Ton père te rassure, il t'explique que les problèmes vont plutôt se diriger vers ceux qui sont à l'origine du harcèlement ! Tu ne peux t'empêcher d'avoir peur de la suite mais tu fais confiance à ton papa.
+
+Le lendemain matin, tu pars à l'école en te demandant si la maîtresse a déjà lu le message de ton papa. [[Tu arrives à l'école.->Suite20]]
+
+
+
+
+
+
+:: Suite13 {"position":"1425,2150","size":"100,100"}
+- Je vais en parler moi-même à la maîtresse, dis-tu.
+- D'accord, répond ton papa. Bravo pour ton courage.
+
+Le soir, tu racontes tes soucis à ta maman qui te félicite aussi pour le courage que tu as eu d'en parler et d'agir. [[Rassurée, tu vas te coucher.->Suite10]]
+
+
+
+
+:: Suite2 {"position":"900,1475","size":"100,100"}
+- Qu'est-ce qui se passe ? demandes-tu.
+- On regarde des photos de toi, dit Alyia en souriant.
+Derek et d'autres se mettent alors à rire.
+- Regarde ! dit Derek en te montrant une photo de girafe en train de manger des feuilles d'un arbre.
+Tu regardes la photo et deviens toute rouge. Tu n'en peux plus, les larmes aux yeux, tu te retournes et [[tu pars vite en direction de chez toi. ->Suite4]]
+
+
+
+:: Suite20 {"position":"1200,2725","size":"100,100"}
+A l'école, les petits commentaires continuent. Tu essaies de garder ton calme. 
+Lorsque la cloche pour la récréation sonne, vous vous levez tous pour sortir. La maîtresse t'appelle et te demande de venir vers elle. Elle te dit qu'elle a reçu un message de ton papa qui explique la situation et te propose de prendre quelques minutes à la fin de la journée pour en discuter. Elle te propose aussi de rester en classe avec une copine pendant la récréation, si tu le souhaites. [[Tu acceptes avec plaisir.->Suite20A]]
+
+
+
+
+
+:: Suite20A {"position":"1450,2625","size":"100,100"}
+Tu expliques la situation à Laura et tu lui proposes de rester en classe avec toi pendant la récréation. Elle accepte avec plaisir et vous passez la pause à jouer ensemble. Ce moment te fait du bien. 
+
+[[A 16h00, la cloche sonne.->Suite20B]] 
+
+
+:: Suite20B {"position":"1600,2700","size":"100,100"}
+Tes camarades sortent de la classe. Tu prends ton temps pour prendre tes affaires puis tu te diriges vers ta maîtresse.
+Elle attend que tous les élèves soient sortis puis te propose d'expliquer précisément ce qui se passe depuis le début de l'année.
+Tu lui racontes alors toutes les moqueries que tu subis à propos de ta taille ainsi que les messages et les photos sur ton téléphone.
+Ta maîtresse t'écoute attentivement. Quand tu as fini de parler, elle te dit qu'elle est vraiment désolée de ce qui t'arrive et elle te félicite d'être revenue lui parler et d'avoir eu le courage de raconter ce que tu vis. 
+[[Elle te dit ensuite : ->Suite11C]]
+
+
+
+:: Suite3 {"position":"1250,1600","size":"100,100"}
+Laura s'approche du groupe et demande à Derek si elle peut voir ce qu'il y a de drôle.
+- Bien sûr ! dit Derek. C'est une photo de Juliette.
+Les autres se mettent à rire et il lui montre alors son téléphone.
+- C'est pas sympa, dit Laura.
+Elle retourne vers toi et te dit : 
+- Viens, on part. Il est vraiment débile Derek.
+Vous quittez l'école et elle te raconte que sur son téléphone, Derek montrait une girafe en disant que c'était toi. Elle te conseille de les ignorer. 
+Tu commences à avoir mal au ventre. Tu remercies Laura pour son aide et [[tu rentres chez toi toute énervée. ->Tu décides de partir rapidement et de rentrer chez toi.->Suite4]]
+
+
+
+:: Suite4 {"position":"950,1650","size":"100,100"}
+Pleine de rage, tu leur tournes le dos et tu quittes rapidement l'école. Ta maman est au travail mais ton père est chez toi. Toutefois, à peine arrivée, tu lui dis à peine bonjour et tu files dans ta chambre. Ces moqueries commencent à te déprimer et te mettre très en colère. Tu allumes ton téléphone pour écrire à Laura.
+
+Au moment où ton téléphone s'allume, tu t'aperçois qu'il y a plusieurs messages sur un nouveau groupe qui s'appelle "la girafe". Paniquée, [[tu te mets à les lire... ->Suite5]]
+
+
+
+:: Suite5 {"position":"1200,1775","size":"100,100"}
+Le premier message vient de Derek :
+- Salut à tous ! Voici une super photo de Juliette!
+<img src="https://tinypic.host/images/2024/09/30/girafe-manger-petit.jpg" alt="girafe manger petit" border="0">
+- Ouf qu'elle aime la salade ! répond Alyia.
+Puis, des 🤣  😜  😁  🦒 viennent s'ajouter aux messages et d'autres élèves se mettent à envoyer des photos de girafes.
+Des larmes commencent à couler le long de tes joues. Que fais-tu ?
+
+[[Tu décides de répondre aux messages.->Suite6]]
+OU
+[[Tu sors de ta chambre et tu vas montrer à ton papa ces messages.->Suite7]]
+OU
+[[Tu quittes le groupe de messages et éteins ton téléphone.->Suite8]]
+
+
+
+
+
+:: Suite6 {"position":"875,2000","size":"100,100"}
+- Vous êtes débiles !!! 😡 écris-tu.
+- 😆😆😆 envoie un garçon de l'autre classe.
+- C'est trop drôle 😄 ajoute Laurent.
+- 🦒🦒🦒 envoie un autre.
+- Juliette attaquée par un lion ! ajoute quelqu'un d'autre sous une photo de lion qui court derrière une girafe.
+
+En voyant les réactions à ton message, tu te dis que tu aurais mieux fait de ne pas répondre !
+[[Tu quittes le groupe de messages et éteins ton téléphone.->Suite8]]
+
+
+:: Suite7 {"position":"1575,1950","size":"100,100"}
+Ton papa te voit arriver les larmes aux yeux et te demande :
+- Qu'est-ce qui se passe Juliette ?
+- Regarde, dis-tu en lui montrant ton téléphone.
+- C'est inadmissible ! s'exclame-t-il. On ne peut pas laisser ça continuer.
+Ton papa prend son téléphone et photographie les messages et les photos envoyés. Il t'explique qu'en plus d'être très méchant, ce genre de choses est interdit par la loi. 
+Il te propose de quitter le groupe de messages et d'éteindre ton téléphone.
+Tu acceptes. Ton papa te console et te rassure en te disant que vous allez trouver une solution pour arrêter ce harcèlement. 
+Il te propose d'écrire un message à ta maîtresse ou que tu lui expliques toi-même ce qui se passe. Que choisis-tu ?
+ [[Tu demandes à ton papa d'écrire un message à ta maîtresse.->Suite12]]
+OU
+[[Tu décides d'aller en parler toi-même à ta maîtresse.->Suite13]]
+
+
+:: Suite8 {"position":"1400,1925","size":"100,100"}
+Au bout de quelques minutes, tu reprends tes esprits et tu vas un petit peu mieux. Quitter le groupe te permet d'arrêter de recevoir ces messages et ces photos blessants. Tu te mets alors à réfléchir sur ce que tu pourrais faire.
+
+[[Tu décides d'aller dans le salon et d'en parler à ton papa.->Suite9]]
+OU
+[[Tu décides d'en parler demain à ta maîtresse.->Suite10]]
+OU
+[[Tu décides d'attendre quelques jours que ces moqueries cessent.->Suite11]]
+
+
+:: Suite9 {"position":"975,2150","size":"100,100"}
+Ton père te voit arriver avec les larmes aux yeux. Il te demande ce qui se passe et tu lui expliques tout : les moqueries à l'école par rapport à ta taille, les messages et les photos sur le groupe de messagerie... Tu lui montres ton téléphone.
+Ton papa est scandalisé par ce que tu lui dis et montres. Il te prend dans ses bras et te dis qu'il va t'aider à mettre fin à ce harcèlement. 
+- La première chose à faire, dit-il, c'est d'en parler à ta maîtresse. Il faut absolument la mettre au courant. Tu préfères que je lui écrives un message ou tu préfères lui en parler toi directement ?
+ 
+ [[Tu demandes à ton papa d'écrire un message à ta maîtresse.->Suite12]]
+ OU
+ [[Tu dis à ton papa que tu iras parler à ta maîtresse.->Suite10]]
+ 
+
+
+:: Tout s'est bien passé {"position":"1025,425","size":"100,100"}
+Tes parents sont contents que tout se soit bien passé. Mais tu ne parles pas beaucoup... Après le repas, tu files dans ta chambre. Tu ne sais pas pourquoi tu ne leur as rien raconté. La honte ? La peur ? Tu te sens un peu perdue.
+
+C'est bientôt l'heure de dormir. Tu t'allonges sur ton lit mais tu n'arrives pas à penser à autre chose qu'à ces moqueries. Quelle horrible rentrée !! Tu es toute triste et tu te dis que tu aurais peut-être dû en parler à tes parents.
+Quelques instants plus tard, tu es dans ton lit et tu essaies de t'endormir. Difficilement...
+Le lendemain matin, tu repars pour [[l'école. ->école 3]]
+
+
+:: Tout s'est bien passé. {"position":"775,525","size":"100,100"}
+Tes parents sont contents que tout se soit bien passé. Après le repas, tu files dans ta chambre. Tu ne sais pas pourquoi tu ne leur as rien raconté. La honte ? La peur ? Tu te sens un peu perdue.
+
+C'est bientôt l'heure de dormir. Tu t'allonges sur ton lit mais tu n'arrives pas à penser à autre chose qu'à ces moqueries. Quelle horrible rentrée !! Tu es toute triste et tu te dis que tu aurais peut-être dû en parler à tes parents.
+Quelques instants plus tard, tu es dans ton lit et tu essaies de t'endormir. Difficilement...
+Le lendemain matin, tu repars pour [[l'école. -> l'école 2]]
+
+
+
+:: Tu acceptes avec plaisir. {"position":"450,2675","size":"100,100"}
+Tu expliques la situation à Laura et tu lui proposes de rester en classe avec toi pendant la récréation. Elle accepte avec plaisir et vous passez la pause à jouer ensemble. Ce moment te fait du bien. 
+
+[[A 16h00, la cloche sonne.]] 
+
+
+:: Tu acceptes. {"position":"1200,250","size":"100,100"}
+De retour à ta place, la maîtresse demande l'attention de toute la classe. Tu ne te sens pas très bien, tu crains la réaction des autres. La maîtresse rappelle à tous les élèves que les règles n'ont pas changé depuis l'année passée : on se respecte les uns les autres, que ce soit avec les adultes ou avec les camarades de l'école. 
+- Il est donc interdit de se moquer des autres, dit-elle. Or, il semblerait que certains et certaines d'entre vous se moquent de la taille de Juliette. J'aimerais que cela cesse immédiatemment. Est-ce que c'est bien compris ?
+Quelques voix dans la classe répondent que oui. La maîtresse nous remercie pour notre engagement et nous reprenons ensuite le travail. Tu es gênée mais contente aussi que la maîtresse soit intervenue.
+
+Un moment plus tard, la cloche sonne et tu [[rentres chez toi]].
+
+
+
+
+:: Tu arrives dans le préau et tu retrouves tes camarades. {"position":"225,0","size":"100,100"}
+Tu te mets en rang avec ta copine Laura et tu observes tous les autres enfants agités un peu partout. En regardant autour de toi, tu t'aperçois qu'effectivement tu as bien plus grandi que tes camarades. Laura ne manque pas de te le dire en s'exclamant :
+- Wouahou Juliette, comme tu as grandi ! 
+- Oui je sais, réponds-tu sans savoir trop quoi dire.
+Tu es contente d'être grande mais en même temps tu es gênée que ça se voie tellement. 
+
+La maîtresse arrive et [[vous vous dirigez vers votre nouvelle classe.]]
+
+
+
+:: Tu arrives à l'école juste à temps. {"position":"100,2825","size":"100,100"}
+Essouflée, tu te mets en rangs avec tes camarades. Derek s'exclame alors :
+- Bah dis donc Juliette, t'as réussi à t'échapper du zoo ?
+A nouveau, les autres se mettent à rire. 
+Tu es déjà au bord des larmes lorsque la maîtresse arrive et vous fait entrer en classe. 
+
+A la récréation, les moqueries continuent et tu t'isoles dans un coin du préau pour qu'on te laisse tranquille mais il y a toujours quelqu'un pour te faire une remarque. Tu réalises en effet que maintenant il y a d'autres élèves de l'école qui te traitent de girafe.
+
+A la fin de la journée, tu te rends compte que tu n'as pas suivi les leçons de Madame Tilbot, ta tête était ailleurs. La cloche sonne. Que fais-tu ?
+
+[[Tu rentres chez toi au plus vite.]]
+OU
+[[Tu décides de parler de ces moqueries à la maîtresse.]]
+
+
+
+:: Tu arrives à l'école. {"position":"350,2825","size":"100,100"}
+A l'école, les petits commentaires continuent. Tu essaies de garder ton calme. 
+Lorsque la cloche pour la récréation sonne, vous vous levez tous pour sortir. La maîtresse t'appelle et te demande de venir vers elle. Elle te dit qu'elle a reçu un message de ton père qui explique la situation et te propose de prendre quelques minutes à la fin de la journée pour en discuter. Elle te propose aussi de rester en classe avec une copine pendant la récréation, si tu le souhaites. [[Tu acceptes avec plaisir.]]
+
+
+
+
+
+:: Tu attends Edouard pour sortir de l'école. {"position":"650,4750","size":"100,100"}
+- Je t'attends, dis-tu à Edouard. Comme ça on peut faire un bout de chemin ensemble.
+- Oui merci, te répond Edouard. 
+Tu sens que ça le rassure. Une fois prêts, [[vous partez tous les deux.]]
+
+
+:: Tu attends que la cloche sonne pour aller te mettre en rang. {"position":"100,4325","size":"100,100"}
+Au bout de quelques minutes, la cloche sonne et tu vas te mettre en rang. Edouard arrive en dernier et reste seul tout derrière. Tu as de la peine pour lui. Tu regrettes de n'avoir rien fait tout à l'heure.
+[[Monsieur Ségurion arrive et vous vous dirigez en classe.]]
+
+
+:: Tu demandes à Laura si elle veut bien aller voir ce qui se passe. {"position":"450,1400","size":"100,100"}
+Laura s'approche du groupe et demande à Derek si elle peut voir ce qu'il y a de drôle.
+- Bien sûr ! dit Derek. C'est une photo de Juliette.
+Les autres se mettent à rire et il lui montre alors son téléphone.
+- C'est pas sympa, dit Laura.
+Elle retourne vers toi et te dit : 
+- Viens, on part. Il est vraiment débile Derek.
+Vous quittez l'école et elle te raconte que sur son téléphone, Derek montrait une girafe en disant que c'était toi. Elle te conseille de les ignorer. 
+Tu commences à avoir mal au ventre. Tu remercies Laura pour son aide et [[tu rentres chez toi toute énervée. ->Tu décides de partir rapidement et de rentrer chez toi.]]
+
+
+
+:: Tu demandes à ton papa d'écrire un message à ta maîtresse. {"position":"450,2500","size":"100,100"}
+Tu es soulagée et en même temps un peu anxieuse de ce qui va se passer après. Tu crains d'avoir d'autres problèmes. Ton père te rassure, il t'explique que les problèmes vont plutôt se diriger vers ceux qui sont à l'origine du harcèlement ! Tu ne peux t'empêcher d'avoir peur de la suite mais tu fais confiance à ton papa.
+
+Le lendemain matin, tu pars à l'école en te demandant si la maîtresse a déjà lu le message de ton papa. [[Tu arrives à l'école.]]
+
+
+
+
+
+
+:: Tu dis à Edouard d'ignorer. {"position":"900,3650","size":"100,100"}
+- Laisse tomber, dis-tu discrètement à Edouard. 
+Edouard se tourne vers toi et te fais oui de la tête, gêné. Rachel est grande et a beaucoup d'influence sur les autres. Comme beaucoup d'élèves, tu la crains un peu et tu préfères ne pas avoir affaire à elle.
+L'année passée, certains élèves faisaient parfois des commentaires sur Edouard à propos des peluches qu'il ramenait parfois à l'école, mais ça ne le dérangeait pas trop. Là en tous cas, ça n'a pas l'air de l'amuser.
+Monsieur Ségurion arrive et [[vous vous dirigez vers la classe.]]
+
+
+:: Tu dis à tes parents que tu en as déjà parlé à ta maîtresse. {"position":"1025,1025","size":"100,100"}
+Tes parents te félicitent d'en avoir parlé. C'est en effet important qu'elle sache afin qu'elle puisse t'aider pour faire en sorte que ça s'arrête. Tes parents te disent que tu as aussi bien fait de leur en parler et te prennent dans leurs bras. Tu te sens mieux. 
+La nuit tombe et tu vas te coucher. 
+[[Le lendemain matin, tu repars pour l'école.->école 3]]
+
+
+:: Tu dis à ton papa que tu iras parler à ta maîtresse. {"position":"350,2200","size":"100,100"}
+Le lendemain matin, tu arrives à l'école et les petits commentaires continuent. Tu essaies de garder ton calme. Tu as prévu d'aller parler à ta maîtresse à la fin de la journée.
+
+A 16h00, la cloche sonne. Tes camarades sortent de la classe. Tu prends ton temps pour prendre tes affaires puis tu te diriges vers ta maîtresse et tu lui demandes si tu peux lui parler.
+- Bien entendu Juliette, je t'écoute, répond la maîtresse.
+Tu lui racontes alors toutes les moqueries que tu subis depuis le début de l'année à propos de ta taille ainsi que les messages et les photos sur ton téléphone.
+Ta maîtresse t'écoute attentivement. Quand tu as fini, [[elle te félicite d'avoir eu le courage de raconter ce que tu vis et te dis : ]]
+
+
+
+:: Tu décides d'aller dans le salon et d'en parler à ton papa. {"position":"200,2200","size":"100,100"}
+Ton papa te voit arriver avec les larmes aux yeux. Il te demande ce qui se passe et tu lui expliques tout : les moqueries à l'école par rapport à ta taille, les messages et les photos sur le groupe de messagerie... Tu lui montres ton téléphone.
+Ton papa est scandalisé par ce que tu lui dis et montres. Il te prend dans ses bras et te dis qu'il va t'aider à mettre fin à ce harcèlement. 
+- La première chose à faire, dit-il, c'est d'en parler à ta maîtresse. Il faut absolument la mettre au courant. Tu préfères que je lui écrives un message ou tu préfères lui en parler toi directement ?
+ 
+ [[Tu demandes à ton papa d'écrire un message à ta maîtresse.]]
+ OU
+ [[Tu dis à ton papa que tu iras parler à ta maîtresse.]]
+ 
+
+
+:: Tu décides d'aller en parler toi-même à ta maîtresse. {"position":"625,2500","size":"100,100"}
+- Je vais en parler moi-même à la maîtresse, dis-tu.
+- D'accord, répond ton papa. Bravo pour ton courage.
+
+Le soir, tu racontes tes soucis à ta maman qui te félicite aussi pour le courage que tu as eu d'en parler et d'agir. [[Rassurée, tu vas te coucher.->Tu dis à ton papa que tu iras parler à ta maîtresse.]]
+
+
+
+
+:: Tu décides d'aller parler à ta maîtresse. {"position":"250,700","size":"100,100"}
+Tu attends que tes camarades sortent de la classe puis tu te diriges vers ta maîtresse. Tu lui dis que tu aimerais lui parler. Elle t'écoute.
+Tu lui expliques que depuis la rentrée, des élèves se moquent de toi parce que tu es grande. On te traite de girafe et ça t'énerve. 
+- Tu as bien fait de venir m'en parler, te félicite la maîtresse. 
+Elle sent que cette situation est difficile pour toi et elle essaie de te rassurer. Elle te demande qui sont les élèves qui se moquent de toi et t'annonce que demain elle prendra un moment avec eux pour leur rappeler qu'il est interdit de se moquer des autres.
+A moitié soulagée et anxieuse de ce qui se passera, tu la remercies puis [[tu sors de l'école.]] 
+
+
+:: Tu décides d'attendre quelques jours que ces moqueries cessent. {"position":"75,2200","size":"100,100"}
+Le soir, pendant le repas, tu as mauvaise mine. Tes parents te demandent si quelque chose ne va pas.
+- Ca va, ça va, j'ai pas envie de parler, réponds-tu énervée. 
+- Qu'est-ce qui se passe Juliette ? Il s'est passé quelque chose à l'école ? te demande ta maman avec un regard inquiet. 
+- Laisse-moi tranquille ! insistes-tu, la voix tremblante.
+
+Tes parents n'insistent pas mais s'aperçoivent bien que tu leur caches quelque chose. 
+Après le repas, tu leur dis que tu es fatiguée et [[tu vas te coucher.]]
+
+
+
+:: Tu décides de parler de ces moqueries à la maîtresse. {"position":"400,2975","size":"100,100"}
+Tes camarades sortent de la classe. Tu prends ton temps pour prendre tes affaires puis tu te diriges vers ta maîtresse et tu lui demandes si tu peux lui parler.
+- Bien entendu Juliette, je t'écoute, répond la maîtresse.
+Tu lui racontes alors toutes les moqueries que tu subis depuis le début de l'année à propos de ta taille ainsi que les messages et les photos sur ton téléphone.
+Ta maîtresse t'écoute attentivement. Elle est choquée et déçue de ne pas s'en être rendue compte. Quand tu as fini, [[elle te félicite d'avoir eu le courage de raconter ce que tu vis et te dis : ]]
+
+
+
+:: Tu décides de partir rapidement et de rentrer chez toi. {"position":"75,1475","size":"100,100"}
+Pleine de rage, tu leur tournes le dos et tu quittes rapidement l'école. Ta maman est au travail mais ton papa est chez toi. Toutefois, à peine arrivée, tu lui dis à peine bonjour et tu files dans ta chambre. Ces moqueries commencent à te déprimer et te mettre très en colère. Tu allumes ton téléphone pour écrire à Laura.
+
+Au moment où ton téléphone s'allume, tu t'aperçois qu'il y a plusieurs messages sur un nouveau groupe qui s'appelle "la girafe". Paniquée, [[tu te mets à les lire...]]
+
+
+
+:: Tu décides de répondre au prochain camarade qui fera une remarque sur toi. {"position":"450,125","size":"100,100"}
+En sortant de la classe, dans les vestiaires, tu entends Derek dire à Alyia :
+- Demain il va de nouveau faire grand beau, j'espère que Juliette ne sera pas malade, on aura besoin d'un parasol !
+Alyia se met alors à rire. En colère, tu te tournes alors vers Derek et tu lui dis :
+
+[[- Bah toi j'espère que tu seras bien malade !]]
+OU
+[[- Je prends 5 francs par récréation, j'espère que tu as assez d'argent!]]
+
+
+
+:: Tu décides de répondre aux messages. {"position":"525,1650","size":"100,100"}
+- Vous êtes débiles !!! 😡 écris-tu, très énervée.
+- 😆😆😆 envoie un garçon de l'autre classe.
+- C'est trop drôle 😄 ajoute Laurent.
+- 🦒🦒🦒 envoie un autre.
+- Juliette attaquée par un lion ! ajoute quelqu'un d'autre sous une photo de lion qui court derrière une girafe.
+
+En voyant les réactions à ton message, tu te dis que tu aurais mieux fait de ne pas répondre ! 
+[[Tu quittes le groupe de messages et éteins ton téléphone.]]
+
+
+:: Tu entres en classe et tu t'installes à ta place. {"position":"700,3975","size":"100,100"}
+Après quelques instants, le maître se présente et explique le programme de la journée. Il vous montre les différents coins de la classe et distribue du matériel. Il est très aimable.
+Derrière Edouard, tu entends Rachel dire :
+- Hey Edouard, demande à monsieur Ségurion où est le coin poupées !
+Marcus, qui a tout entendu, se met alors à rire. Le maître lui fait une remarque puis continue de donner quelques explications. Edouard, lui, ne dit rien mais il a l'air triste. Toi, tu ne sais pas trop comment réagir.
+
+A 9h40, la cloche de la récréation sonne et [[vous sortez.]]
+
+
+
+:: Tu es d'accord avec eux. {"position":"550,575","size":"100,100"}
+Tu es soulagée d'avoir parlé des tes soucis à tes parents mais tu es quand même nerveuse à l'idée de retourner à l'école demain. Cette situation te stresse...
+La nuit tombe et tu vas te coucher. Tu peines à t'endormir... 
+
+Le lendemain matin, fatiguée, tu repars pour l'[[école.]]
+
+
+:: Tu interviens pour défendre Edouard. {"position":"500,4125","size":"100,100"}
+- Arrêtez ! t'exclames-tu. Vous êtes pas sympas !
+- On rigole ! répond alors Marcus.
+- Ca va, on fait rien de mal, ajoute Anaïs.
+- Allez, laissons les p'tits bébés ensemble, on va aux tables, dit Rachel.
+Puis, ils s'en vont.
+Edouard te regarde et te remercie d'être intervenu. Tu es fier d'avoir eu le courage de dire quelque chose et tu es content d'avoir pu soutenir ton ami. Vous passez le reste de la récréation ensemble sur les balançoires.
+Au bout d'un moment, la cloche sonne et vous allez vous mettre en rang. 
+[[Monsieur Ségurion arrive et vous vous dirigez en classe.]]
+
+
+:: Tu laisses tomber en espérant que ça s'arrête. {"position":"100,275","size":"100,100"}
+En sortant de la classe, tu entends Derek dire à Alyia :
+- Demain il va de nouveau faire grand beau, j'espère que Juliette ne sera pas malade, on aura besoin d'un parasol !
+Alyia se met à rire. Tu bouillonnes en toi ! Tu quittes rapidement le vestiaire et [[tu rentres chez toi.]]
+
+
+:: Tu ne dis rien et tu restes à l'écart. {"position":"300,4200","size":"100,100"}
+Tu les entends se moquer d'Edouard mais tu préfères ne pas t'en mêler. Tu fais un peu comme si tu n'avais rien entendu et tu regardes ailleurs. Comme ça, tu te dis qu'Edouard ne t'en voudra pas. 
+Au bout d'un moment, les trois s'en vont et tu vois Edouard qui se met à pleurer sur sa balançoire. Tu te sens coupable de n'avoir pas réagi. Que fais-tu ?
+
+[[Tu attends que la cloche sonne pour aller te mettre en rang.]]
+OU
+[[Tu vas vers Edouard pour le consoler.]]
+
+
+:: Tu ne dis rien. {"position":"700,3650","size":"100,100"}
+Tu fais comme si tu n'avais rien entendu et tu regardes ailleurs. Rachel est grande et a beaucoup d'influence sur les autres. Tu la crains un peu et tu préfères ne pas te mêler.
+Tu regardes ensuite Edouard et tu vois qu'il regarde par terre, l'air vexé. Tu as un peu de la peine pour lui.
+Monsieur Ségurion arrive et [[vous vous dirigez vers la classe.]]
+
+
+:: Tu ouvres le message... {"position":"600,5600","size":"100,100"}
+Une photo de lézard apparaît :
+<img src="https://tinypic.host/images/2024/09/26/Lezard-petit.jpg" alt="Lézard petit" border="0">
+"Je vous présente Edouard le lézard 😆😆😆 ". 
+
+Puis, quelques secondes plus tard, d'autres camarades de classe réagissent en envoyant des émojis et des commentaires : "🤣😁😆", "LOL", "Salut Edouard !", "Mignon !", ...
+
+Comment réagis-tu ?
+
+Tu trouves ça amusant et [[tu envoies aussi un émoji de lézard 🦎]]
+OU
+Tu veux défendre Edouard et [[tu écris : Laissez-le tranquille !]]
+OU
+Tu ne sais pas comment réagir et tu préfères [[ne pas intervenir.]]
+
+
+
+
+
+:: Tu prends une BD pour te distraire avant le dîner. {"position":"650,5975","size":"100,100"}
+Un peu plus tard, ta maman t'appelle pour venir à table. Pendant le repas, elle te demande si l'après-midi s'est bien passée et si les élèves ont arrêté d'embêter Edouard. Tu réponds :
+
+[[- Ils ont continué à se moquer de lui.]]
+OU
+[[- Ca a continué et maintenant ils envoient même des messages sur le téléphone.]]
+
+
+:: Tu quittes le groupe de messages et éteins ton téléphone. {"position":"150,1825","size":"100,100"}
+Au bout de quelques minutes, tu reprends tes esprits et tu vas un petit peu mieux. Quitter le groupe te permet d'arrêter de recevoir ces messages et ces photos blessants. Tu te mets alors à réfléchir sur ce que tu pourrais faire.
+
+[[Tu décides d'aller dans le salon et d'en parler à ton papa.]]
+OU
+[[Tu décides d'en parler demain à ta maîtresse.->Tu dis à ton papa que tu iras parler à ta maîtresse.]]
+OU
+[[Tu décides d'attendre quelques jours que ces moqueries cessent.]]
+
+
+:: Tu refuses d'en parler à la maîtresse car tu penses que cela ajoutera des problèmes. {"position":"400,700","size":"100,100"}
+Tes parents comprennent ta crainte d'en parler à l'école. Ils te recommandent tout de même de ne pas laisser la situation s'empirer. Tu répètes que tu ne veux pas en parler. Tu as peur.
+Tes parents respectent ton choix mais insistent que tu les tiennent au courant si ces moqueries continuent. 
+- Ok ! Mais laissez-moi tranquille maintenant, je ne veux plus en parler! t'exclames-tu.
+Tes parents sont surpris de ta réaction, ils sentent que tu n'es pas bien mais n'insistent pas.
+
+Quelques instants plus tard, tu es allongée sur ton lit. Tu n'arrives pas à penser à autre chose qu'à ces moqueries. Tu es triste et énervée en même temps. Quelle horrible rentrée !! Tu peines à t'endormir...
+
+Le lendemain matin, fatiguée de la mauvaise nuit, tu repars pour [[l'école.]]
+
+
+:: Tu refuses sa proposition. {"position":"950,275","size":"100,100"}
+Tu réponds à ta maîtresse que tu ne souhaites pas que l'on en parle à toute la classe. Tu lui dis que ça te gêne et que tu crains la réaction des autres.
+Ta maîtresse te comprend mais elle pense que ce serait bien d'en parler. Elle ne veut toutefois pas le faire si tu n'es pas d'accord. Elle te demande alors ce que tu veux faire mais tu ne sais pas trop. Vous convenez alors de voir comment se passera la journée de demain mais elle compte sur toi pour que tu viennes lui en parler si cela continue. Tu fais oui de la tête.
+Lorsque la cloche sonne, tu [[rentres chez toi.]]
+
+
+:: Tu rentres chez toi au plus vite. {"position":"225,3000","size":"100,100"}
+Une fois à la maison, tu allumes ton téléphone et tu t'aperçois que tu es de nouveau dans le groupe de messages et que d'autres photos de girafes sont apparues, à chaque fois avec des commentaires. C'est alors que tu fonds en larmes. Tu n'en peux plus. Tu es épuisée et tu sens que tu ne maîtrises plus rien. 
+Tu te fais harceler à l'école et en ligne. C'est insupportable. Tu réalises que tu ne peux plus et que tu ne dois plus garder tout ça pour toi. Tu te lèves et [[tu vas dans le salon. ->Tu décides d'aller dans le salon et d'en parler à ton papa.]]
+
+
+
+
+:: Tu rentres chez toi. {"position":"475,4800","size":"100,100"}
+Une fois tes chaussures aux pieds, tu te lèves et tu pars. Derrière toi, tu entends des rires. Tu n'aimerais pas être à la place d'Edouard.
+
+Chez toi, ta maman te demande comment s'est passé cette matinée. Tu réponds :
+
+[[- Super, Monsieur Ségurion nous a expliqué pleins de choses et c'était sympa.]]
+OU
+[[- Très bien, sauf que certains embêtent mon copain Edouard.]]
+
+
+:: Tu retournes en classe expliquer à monsieur Ségurion ce qui se passe. {"position":"825,4800","size":"100,100"}
+De retour en classe, le maître te regarde et te demande si tu as oublié quelque chose.
+- Non non, réponds-tu, c'est juste qu'au vestiaire il y a Rachel, Anaïs et Marcus qui embêtent Edouard.
+- Je viens tout de suite, dit-il.
+[[Monsieur Ségurion arrive alors au vestiaire.]]
+
+
+:: Tu retournes parler à ta maîtresse. {"position":"1225,1300","size":"100,100"}
+Tu attends que tes camarades sortent de la classe puis tu te diriges vers ta maîtresse. Tu lui dis que tu aimerais lui parler. Elle t'écoute.
+Tu lui expliques que des élèves continuent de se moquer de toi en te traitant de girafe. 
+- Tu as bien fait de revenir m'en parler, te félicite la maîtresse. 
+Elle te demande qui sont les élèves qui se moquent de toi pour qu'elle puisse avoir une petite discussion avec eux demain. 
+Elle te propose ensuite d'en parler avec Sylvie, l'éducatrice, pour qu'elle puisse t'aider et te soutenir. Tu acceptes volontiers. Tu te sens un peu soulagée. Ta maîtresse t'annonce alors qu'elle va discuter avec elle pour qu'elle prenne un moment avec toi demain.
+Tu la remercies puis [[tu t'en vas.]]
+
+
+
+
+
+
+:: Tu rigoles aussi. {"position":"500,3650","size":"100,100"}
+Tu te forces un peu à rire car tu ne veux pas que Rachel s'en prenne à toi ensuite. Elle est grande et a beaucoup d'influence sur les autres. Il vaut mieux ne pas se la mettre à dos ! 
+Un peu honteux, tu regardes ensuite Edouard et tu vois qu'il regarde par terre, l'air vexé. Tu as un peu de la peine pour lui.
+Monsieur Ségurion arrive et [[vous vous dirigez vers la classe.]]
+
+
+:: Tu rigoles avec eux. {"position":"1100,4200","size":"100,100"}
+Tu te mets à rire aussi en te forçant, car au fond tu ne trouves pas ça si drôle... 
+Edouard tourne alors la tête et te regarde. Il a les larmes aux yeux. D'un coup, tu te sens très bête et tu regrettes fortement d'avoir ri. Ce n'était vraiment pas mâlin de te part ! 
+Edouard s'en va rapidement vers un autre coin du préau pendant que les trois autres continuent de chantonner "Edouard le lézard".
+
+Tu aurais mieux fait de réagir autrement ! [[Reviens en arrière et prends une meilleure décision.->Tu t'approches aussi.]]
+
+
+
+:: Tu sors aussi. {"position":"425,6550","size":"100,100"}
+Tu te prépares dans les vestiaires puis tu rentres à la maison.
+Après un bon repas (des filets de perche avec des frites), tu retournes à l'école. Une fois dans le bâtiment, tu aperçois au bout du couloir Edouard et son papa en train de discuter avec le directeur et Josiane, l'éducatrice. Tu te demandes ce qui se passe.
+En classe, monsieur Ségurion nous annonce que Josiane viendra chercher tour à tour certains élèves de la classe pour discuter quelques minutes. [[En attendant, chacun se met au travail.]]
+
+
+
+
+
+:: Tu sors de la classe. {"position":"450,1150","size":"100,100"}
+Dans les vestiaires, tu discutes avec Laura. Vous parlez d'une série de télévision que vous connaissez toutes les deux et que vous suivez. Autour de toi, tu remarques que, bizarrement, plusieurs élèves se pressent de sortir à l'extérieur. 
+Intriguée, tu proposes à Laura que vous alliez voir dehors ce qui se passe. Elle se lève et [[vous sortez de l'école.]]
+
+
+:: Tu sors de ta chambre et tu vas montrer à ton papa ces messages. {"position":"475,1875","size":"100,100"}
+Ton papa te voit arriver les larmes aux yeux et te demande :
+- Qu'est-ce qui se passe Juliette ?
+- Regarde, dis-tu en lui montrant ton téléphone.
+Ton papa se met à lire les messages et à regarder les photos. 
+- C'est inadmissible ! s'exclame-t-il. On ne peut pas laisser ça continuer.
+Ton papa prend son téléphone et photographie les messages et les photos envoyés. Il t'explique qu'en plus d'être très méchant, ce genre de choses est interdit par la loi. 
+Il te propose de quitter le groupe de messages et d'éteindre ton téléphone.
+Tu acceptes. Ton papa te console et te rassure en te disant que vous allez trouver une solution pour arrêter ce harcèlement. 
+Il te propose d'écrire un message à ta maîtresse ou que tu lui expliques toi-même ce qui se passe. Que choisis-tu ?
+ [[Tu demandes à ton papa d'écrire un message à ta maîtresse.]]
+OU
+[[Tu décides d'aller en parler toi-même à ta maîtresse.]]
+
+
+:: Tu t'approches aussi. {"position":"700,4300","size":"100,100"}
+A peine Edouard est-il sur la balançoire que Rachel lui dit : 
+- T'as pas pris ton doudou à la récréation ?
+Puis Anaïs ajoute :
+- La balançoire c'est pour les bébés.
+Marcus dit à son tour :
+- On pourrait l'appeler Edouard le lézard !
+- Bonne idée, s'exclame Rachel, comme la p'tite peluche sur son sac !
+Et là, les trois se mettent à crier "Edouard le lézard !".
+Comment réagis-tu ?
+
+[[Tu ne dis rien et tu restes à l'écart.]]
+OU
+[[Tu interviens pour défendre Edouard.]]
+OU
+[[Tu vas prévenir un enseignant qui surveille.]]
+OU
+[[Tu rigoles avec eux.]]
+
+
+
+
+:: Tu t'approches d'eux pour leur demander ce qu'il y a de drôle. {"position":"275,1350","size":"100,100"}
+- Qu'est-ce qui se passe ? demandes-tu.
+- On regarde des photos de toi, dit Alyia en souriant.
+Derek et d'autres se mettent alors à rire.
+- Regarde ! dit Derek en te montrant une photo de girafe en train de manger des feuilles d'un arbre.
+Tu regardes la photo et deviens toute rouge. Tu n'en peux plus, les larmes aux yeux, tu te retournes et [[tu pars vite en direction de chez toi. ->Tu décides de partir rapidement et de rentrer chez toi.]]
+
+
+
+:: Tu te confies à ta copine Laura. {"position":"300,200","size":"100,100"}
+A la fin de la journée, déprimée de cette horrible journée, tu décides d'aller parler à Laura. Dans les vestiaires, tu lui dis que tu en as marre que les autres se moquent de ta taille. Tu lui dis que tu n'y peux rien et que tu ne sais pas quoi faire. Laura est une bonne amie, elle te comprend et te suggère de les ignorer. Elle te propose aussi d'en parler à tes parents ou à la maîtresse si ça continue. 
+Ca te fait du bien de lui raconter tes soucis, tu te sens moins seule. Vous discutez encore un peu puis tu prends tes affaires et [[tu rentres chez toi.]]
+
+
+:: Tu te diriges aux vestiaires. {"position":"100,575","size":"100,100"}
+Dans les vestiaires, tu discutes avec Laura. Vous parlez d'une série de télévision que vous connaissez toutes les deux et que vous suivez. Autour de toi, tu remarques que, bizarrement, plusieurs élèves se pressent de sortir à l'extérieur. 
+Intriguée, tu proposes à Laura que vous alliez voir dehors ce qui se passe. Elle se lève et [[vous sortez de l'école.]]
+
+
+:: Tu téléphones à Edouard pour voir comment ça va. {"position":"825,5925","size":"100,100"}
+- Salut Edouard, c'est Frank, dis-tu.
+- Salut, répond Edouard d'une petite voix.
+- Tu as vu les messages dans le groupe ? 
+- Oui...
+- Je suis désolé, j'ai voulu qu'ils arrêtent.
+- J'ai vu, merci Frank.
+Vous discutez encore un petit moment et tu sens que ça fait du bien à Edouard de pouvoir te parler et de compter sur toi. Tu es content de pouvoir soutenir ton ami. C'était une bonne idée de lui téléphoner.
+
+Une fois la discussion finie, tu prends une BD. Puis, au bout d'un moment, ta maman t'appelle pour venir à table. Pendant le repas, elle te demande si l'après-midi s'est bien passée et si les élèves ont arrêté d'embêter Edouard. Tu réponds :
+
+[[- Ils ont continué à se moquer de lui.]]
+OU
+[[- Ca a continué et maintenant ils envoient même des messages sur le téléphone.]]
+
+
+:: Tu vas parler à la maîtresse. {"position":"1025,150","size":"100,100"}
+A la fin de la récréation de l'après-midi, tu vas vers ta maîtresse et tu lui expliques que depuis ce matin, il y a des élèves qui font des remarques sur ta taille. 
+Elle t'écoute attentivement. Elle voit bien que tu n'es pas bien. Elle te propose alors de prendre quelques minutes pour en discuter avec la classe afin que les élèves concernés ne fassent plus de commentaires sur ta taille. Que décides-tu ?
+
+[[Tu acceptes.]]
+OU
+[[Tu refuses sa proposition.]]
+
+
+
+:: Tu vas parler à monsieur Ségurion à propos des messages. {"position":"700,6350","size":"100,100"}
+Tu t'approches du maître et tu demandes à lui parler. 
+- Bien sûr, dit-il.
+Tu lui expliques alors que depuis le début de l'année, des élèves se moquent d'Edouard et envoient des photos ainsi que des messages dans le groupe de messagerie de la classe. 
+Monsieur Ségurion semble surpris et inquiet. 
+- Ces derniers jours Edouard ne m'a rien dit et je n'ai absolment rien remarqué, dit-il. C'est inadmissible, je te remercie beaucoup de m'avoir averti, Frank. Tu as vraiment bien fait de m'en parler, c'est grave ce qu'il se passe. Je vais en discuter avec l'éducatrice.
+En te remerciant, il te souhaite un bon appétit et [[tu rentres à la maison.->FIN]]
+
+
+
+:: Tu vas parler à ta maîtresse. {"position":"625,975","size":"100,100"}
+Tu attends que tes camarades sortent de la classe puis tu te diriges vers ta maîtresse. Tu lui dis que tu aimerais lui parler. Elle t'écoute.
+Tu lui expliques que depuis la rentrée, des élèves se moquent de toi parce que tu es grande. On te traite de girafe et ça t'énerve. 
+- Tu as bien fait de venir m'en parler, te félicite la maîtresse. 
+Elle sent que cette situation est difficile pour toi et elle essaie de te rassurer. Elle te demande qui sont les élèves qui se moquent de toi et t'annonce que demain elle prendra un moment avec eux pour leur rappeler qu'il est interdit de se moquer des autres.
+A moitié soulagée et anxieuse de ce qui se passera, tu la remercies puis [[tu sors de l'école.]] 
+
+
+:: Tu vas prévenir un enseignant qui surveille. {"position":"900,4125","size":"100,100"}
+Tu t'approches de Monsieur Vamontini, un enseignant de l'école.
+- Monsieur, dis-tu, il y en a là-bas qui embêtent Edouard aux balançoires.
+- C'est à dire ? Qu'est-ce qui se passe ? demande-t-il.
+- Ils se moquent de lui, ils l'embêtent, réponds-tu.
+- D'accord, allons voir ce qui se passe, dit-il.
+
+Vous vous dirigez vers les balançoires.
+- Il semblerait que vous embêtez ce jeune homme ? dit alors M. Vamontini aux trois camarades en désignant Edouard.
+- Mais non, réplique Rachel. On rigole juste.
+- On fait rien de mal, ajoute Anaïs.
+M.Vamontini se tourne alors vers Edouard et lui demande :
+- Qu'est-ce qui se passe Edouard ?
+- Ils me traitent de lézard et de bébé ! dit Edouard.
+- Ho le menteur ! s'exclame alors Rachel. On n'a pas dit ça !
+- Si ! répond Edourad. Vous dites Edouard le lézard.
+- Ok ok, interrompt M.Vamontini. On va arrêter ça tout de suite. Ecoutez vous trois, je vais vous demander d'aller ailleurs et de laisser ce jeune homme tranquille sur sa balançoire et d'arrêter de le traiter de lézard ou de quoi que ce soit. Allez hop, circulez !
+Rachel, Anaïs et Marcus s'en vont alors et quelques minutes plus tard, [[la cloche sonne.]]
+
+
+:: Tu vas vers Edouard pour le consoler. {"position":"275,4350","size":"100,100"}
+- Ca va ? demandes-tu à Edouard.
+Il fait non de la tête sans te regarder. Peut-être est-il déçu que tu sois resté à l'écart ?
+Tu restes à côté de lui et tu lui dis que Rachel, Anaïs et Marcus ne sont pas cool. Ta présence à côté de lui doit sûrement le réconforter un peu.
+Au bout d'un moment, la cloche sonne et vous allez vous mettre en rang. 
+[[Monsieur Ségurion arrive et vous vous dirigez en classe.]]
+
+
+:: Variante droite {"position":"775,1175","size":"100,100"}
+Dans les vestiaires, tu discutes avec Laura. Vous parlez d'une série de télévision que vous connaissez toutes les deux et que vous suivez. Autour de toi, tu remarques que, bizarrement, plusieurs élèves se pressent de sortir à l'extérieur. 
+Intriguée, tu proposes à Laura que vous alliez voir dehors ce qui se passe. Elle se lève et [[vous sortez de l'école.->Suite1]]
+
+
+:: Vendredi matin... {"position":"400,6350","size":"100,100"}
+... en arrivant à l'école, tu ne vois pas Edouard. 
+Lorsque vous entrez en classe, tu t'aperçois qu'il est effectivement absent. Monsieur Ségurion relève la même chose :
+- Tiens, Edouard est absent ce matin. J'espère que ça va, dit-il.
+Durant la matinée, vous faites différentes activités mais tu ne peux t'empêcher de penser à Edouard. Est-il vraiment malade ? Ou est-ce à cause des moqueries qu'il n'ose plus venir à l'école ? Maintenant que tu y penses, c'est vrai qu'hier soir encore il y avait beaucoup de messages qui circulaient sur le groupe de messagerie et Edouard en était la cible. Rachel avait encore envoyé des photos de reptiles accompagnées de commentaires. Tu avais assez rapidement éteint ton téléphone car tu en avais marre.
+A 11h30, la cloche sonne et les élèves sortent de la classe.
+Que fais-tu ?
+
+[[Tu sors aussi.]]
+OU
+[[Tu vas parler à monsieur Ségurion à propos des messages.]]
+
+
+
+
+
+:: Voici ce qu'il faut retenir dans ce genre de situation : {"position":"900,3200","size":"100,100"}
+(align:"=><=")+(box:"X")[<img src="https://tinypic.host/images/2024/09/27/victime.jpg" alt="victime" border="0">]
+
+Voilà, bravo pour ta lecture ! Si tu le souhaites, tu peux recommencer l'histoire mais cette fois en tant que [[Frank]]. Tu n'auras pas le même rôle...
+
+
+
+:: aller te coucher. {"position":"300,6200","size":"100,100"}
+Le lendemain et les jours suivants, les remarques et les moqueries envers Edouard continuent. Cela se passe en classe, discrètement, ou à la récréation. En général, ce sont les mêmes qui l'embêtent, c'est à dire Rachel, Anaïs et Marcus. Ils l'appellent toujours Edouard le lézard, le bousculent en rang, donnent des petits coups sur son iguane accroché à son sac... Tous ces petits gestes ou paroles qui petit à petit deviennent envahissants. Mais Edouard n'ose rien dire.
+
+[[Vendredi matin...]]
+
+
+
+:: arrivée {"position":"700,3500","size":"100,100"}
+Il est presque 8h00 et tu te mets en rang avec ton ami Edouard. Vous êtes contents de vous revoir ! Il te montre sa nouvelle peluche accrochée à son sac : un petit iguane tout vert avec de petites épines sur le dos. Edouard adore les peluches, il a une immense collection à la maison.
+Derrière vous, tu reconnais la voix de Rachel :
+- Hé Edouard, t'es venu avec ton nouveau doudou ? dit-elle d'un air moqueur.
+Deux autres camarades se mettent à rigoler. Edouard se retourne pour voir qui a dit ça mais il se tait. Tu sais qu'il a un peu peur d'elle. Toi aussi d'ailleurs. Il n'ose sûrement rien dire. Comment réagis-tu ?
+
+[[Tu rigoles aussi.]] 
+OU
+[[Tu ne dis rien.]]
+Ou
+[[Tu dis à Edouard d'ignorer.]]
+
+
+
+
+
+:: elle te félicite d'avoir eu le courage de raconter ce que tu vis et te dis :\  {"position":"675,2975","size":"100,100"}
+- Tu as bien fait de ne pas garder tout ça pour toi Juliette, dit ta maîtresse. 
+Ce que tu vis est inacceptable et tu dois être protégée. Ce qui t'arrive n'est pas de ta faute. 
+Elle t'annonce qu'elle va immédiatemment en discuter avec ses collègues pour [[agir au plus vite et le mieux possible.->situation.]]
+
+
+
+
+
+:: elle veut juste avoir quelques informations. {"position":"775,6600","size":"100,100"}
+Dans son local, Josiane t'explique qu'elle a été mise au courant que plusieurs élèves de la classe s'en prennent à Edouard. Il s'agirait essentiellement de moqueries.
+- Je sais que ce n'est pas toi, précise-t-elle. Mais j'ai besoin de savoir si tu es au courant et ce que tu sais.
+Mal à l'aise, tu dis à Josiane que tu es au courant. 
+- Ce qui se passe n'est pas de ta faute, Frank, continue Josiane. J'aimerais juste que tu me racontes ce que tu sais.
+Les larmes aux yeux, tu racontes tout ce que tu sais : les commentaires, les images et les messages sur le téléphone... Tu ajoutes que tu as peur qu'on sache que tu les dénonces. 
+- Je comprends tout à fait, dit Josiane, mais tu n'as pas à t'en faire. Tout ceci reste entre nous. C'est très important que l'on puisse bien comprendre ce qui se passe pour pouvoir agir car ce que vit Edouard doit s'arrêter. 
+[[Elle te remercie beaucoup pour ton aide.]]
+
+
+
+:: l'école. {"position":"300,500","size":"100,100"}
+Arrivée à l'école, tu rejoins Laura et tes autres camarades dans les rangs du préau. Au bout de quelques minutes, la maîtresse arrive et vous fait entrer en classe. Elle vous explique le programme de la matinée et vous vous mettez au travail. Tu es contente de faire des exercices, ça te permet d'arrêter de penser aux moqueries des autres.
+
+Cependant, durant la journée, Derek et d'autres élèves te traitent de girafe et te font des remarques que tu n'apprécies pas. Rapidement, ce sentiment de tristesse mélangé à de la colère resurgit en toi. Tu te demandes combien de temps tu pourras supporter tout ça.
+
+A la fin de la journée, la cloche sonne. Que fais-tu ?
+
+[[Tu te diriges aux vestiaires.]]
+OU
+[[Tu décides d'aller parler à ta maîtresse.]]
+
+
+
+
+
+:: la cloche sonne. {"position":"900,4350","size":"100,100"}
+En allant vous mettre en rang, Edouard te remercie d'être allé avertir M.Vanoncini. 
+- De rien, réponds-tu.
+Tu es content d'avoir bien réagi. Vous allez vous mettre en rang. 
+[[Monsieur Ségurion arrive et vous vous dirigez en classe.]]
+
+
+:: message 2 {"position":"950,5625","size":"100,100"}
+Une photo de lézard apparaît :
+<img src="https://tinypic.host/images/2024/09/26/Lezard-petit.jpg" alt="Lézard petit" border="0">
+"Je vous présente Edouard le lézard 😆😆😆 ". 
+
+Puis, quelques secondes plus tard, d'autres camarades de classe réagissent en envoyant des émojis et des commentaires : "🤣😁😆", "LOL", "Salut Edouard !", "Mignon !", ...
+
+Comment réagis-tu ?
+
+Tu trouves ça amusant et [[tu envoies aussi un émoji de lézard 🦎->Lézard2]]
+OU
+Tu veux défendre Edouard et [[tu écris : Laissez-le tranquille !->tranquille 2]]
+OU
+Tu ne sais pas comment réagir et tu préfères [[ne pas intervenir.->écris rien 2]]
+
+
+
+
+
+:: ne pas intervenir. {"position":"475,5725","size":"100,100"}
+Tu ne sais pas trop quoi faire, tu ne veux en tous cas pas participer à ces moqueries. Tu n'écris rien.
+Au bout d'un moment, les messages s'arrêtent. Ouf. 
+
+Le soir, à table, ta maman te demande si l'après-midi s'est bien passée et si les trois élèves ont arrêté d'embêter Edouard. Tu réponds :
+
+[[- Ils ont continué à se moquer de lui.]]
+OU
+[[- Ca a continué et maintenant ils envoient même des messages sur le téléphone.]]
+
+
+
+
+
+:: rentres chez toi {"position":"1350,375","size":"100,100"}
+Le soir, à table, tes parents te demandent comment s'est passée ta journée à l'école. Tu leur réponds que :
+
+[[Tout s'est bien passé]].
+OU
+[[La maîtresse est gentille, contrairement à certains qui se moquent de toi.]]
+
+
+:: rentres chez toi. {"position":"775,375","size":"100,100"}
+Le soir, à table, tes parents te demandent comment s'est passée ta journée à l'école. Tu leur réponds que :
+
+[[Tout s'est bien passé.]]
+OU
+[[La maîtresse est gentille, contrairement à certains qui se moquent de toi.]]
+
+
+:: situation. {"position":"650,3200","size":"100,100"}
+FELICITATIONS !!
+En parler à ta maîtresse était une excellente solution pour commencer à sortir de cette situation que l'on appelle du harcèlement.
+En effet, ta maîtresse et les personnes qui travaillent à l'école sont aussi là pour aider les élèves à se sentir bien et les protéger. 
+Le directeur, l'éducatrice, l'infirmière scolaire et les enseignants vont se réunir pour réagir le mieux possible à cette situation. Certains d'entre eux connaissent bien ce genre de situation et savent comment agir.
+Les élèves qui ont participé et ceux qui ont été témoin de ce harcèlement seront entendus. Puis, tout sera mis en oeuvre pour que ces moqueries ne se reproduisent plus.
+
+Si un jour tu es témoin d'un événement qui ressemble à ce que tu as vécu, tu pourras conseiller à cette personne de faire comme toi, en parler à un adulte de confiance.
+
+[[Voici ce qu'il faut retenir dans ce genre de situation :]]
+
+
+
+
+:: tranquille 2 {"position":"1150,5825","size":"100,100"}
+"Laissez le tranquille !" écris-tu à la suite des messages.
+"Calme-toi, on rigole!" écrit Anaïs.
+"Frank et Edouard, les frères lézard !" ajoute un autre.
+Puis, d'autres messages viennent s'ajouter à la suite.
+Tu réalises que ton message n'arrange rien. Tu quittes l'espace de messagerie.
+Que fais-tu maintenant ?
+
+[[Tu prends une BD pour te distraire avant le dîner.]]
+OU
+[[Tu téléphones à Edouard pour voir comment ça va.]]
+
+
+:: tu entres en classe avec les autres élèves et tu t'installes à ta place. {"position":"100,125","size":"100,100"}
+En classe, la maitresse se présente et explique le programme de la journée. Elle vous montre les différents coins de la classe et distribue du matériel. Elle a l'air très gentille!
+
+Durant la journée, en classe et à la récréation, tu entends encore des commentaires au sujet de ta taille. Ca te rend triste et tu ne sais pas trop quoi faire. Tu ne peux pas changer ta taille !
+
+[[Tu te confies à ta copine Laura.]]
+OU
+[[Tu décides de répondre au prochain camarade qui fera une remarque sur toi.]]
+OU
+[[Tu laisses tomber en espérant que ça s'arrête.]]
+OU
+[[Tu vas parler à la maîtresse.]]
+
+
+
+
+:: tu envoies aussi un émoji de lézard 🦎 {"position":"275,5725","size":"100,100"}
+"Excellent!" réagit quelqu'un. Puis "LOL !!!" ajoute un autre...
+De plus en plus d'autres messages et émojis apparaissent. 
+Tu réalises alors qu'il commence à y avoir beaucoup de monde qui se moque d'Edouard, dont toi en fait ! En effet, envoyer un émoji de lézard à la suite de moqueries fait de toi un complice. 
+Mets-toi à la place d'Edouard, comment te sentirais-tu à sa place ? 
+Tu as pris une mauvaise décision, reviens en arrière et [[fais un meilleur choix.->Tu ouvres le message...]] 
+
+
+
+:: tu rentres chez toi. {"position":"300,350","size":"100,100"}
+Le soir, à table, tes parents te demandent comment s'est passée ta journée à l'école. Tu leur réponds que :
+[[La maîtresse est très gentille et que tout va bien.]]
+OU
+[[La maîtresse est très gentille, contrairement à certains qui se moquent de toi.]]
+
+
+
+
+:: tu rentres chez toi.\  {"position":"800,5500","size":"100,100"}
+Tu es dans ta chambre en train de faire tes devoirs lorsque soudain tu entends le son de ton téléphone qui indique l'arrivée d'un message. 
+Tu saisis ton téléphone et tu t'aperçois qu'il s'agit d'un message de Rachel envoyé dans le groupe de messagerie de la classe appelé "Classe de Monsieur Ségurion". [[Tu ouvres le message...]]
+
+
+:: tu sors de l'école. {"position":"300,925","size":"100,100"}
+Dehors, tu vois un groupe d'élèves rassemblés autour de Derek. On dirait qu'il est en train de leur montrer quelque chose sur son téléphone.
+Autour de Derek, tu remarques qu'il y a aussi Alyia, Laurent et d'autres filles et garçons de la classe parallèle. 
+Soudain, Alyia remarque ta présence et dit quelque chose aux autres que tu n'entends pas. Ils se mettent alors tous à rire. Comment réagis-tu ?
+
+[[Tu t'approches d'eux pour leur demander ce qu'il y a de drôle.]]
+OU
+[[Tu décides de partir rapidement et de rentrer chez toi.]]
+
+
+
+:: tu t'en vas. {"position":"1400,1700","size":"100,100"}
+A peine sortie de l'école, tu vois un groupe d'élèves rassemblés autour de Derek. On dirait qu'il est en train de montrer quelque chose sur son téléphone.
+Autour de lui, tu remarques qu'il y a Alyia, Laurent et d'autres élèves de la classe parallèle. 
+Soudain, Alyia remarque ta présence et dit quelque chose aux autres que tu n'entends pas. Ils se mettent alors tous à rire. Comment réagis-tu ?
+
+[[Tu t'approches d'eux pour leur demander ce qu'il y a de drôle.->Suite2]]
+OU
+[[Tu décides de partir rapidement et de rentrer chez toi.->Suite4]]
+
+
+:: tu te mets à les lire... {"position":"225,1575","size":"100,100"}
+Le premier message vient de Derek :
+- Salut à tous ! Voici une super photo de Juliette!
+<img src="https://tinypic.host/images/2024/09/30/girafe-manger-petit.jpg" alt="girafe manger petit" border="0">
+- Ouf qu'elle aime la salade ! répond Alyia.
+Puis, des 🤣  😜  😁  🦒 viennent s'ajouter aux messages et d'autres élèves se mettent à envoyer des photos de girafes.
+Des larmes commencent à couler le long de tes joues. Que fais-tu ?
+
+[[Tu décides de répondre aux messages.]]
+OU
+[[Tu sors de ta chambre et tu vas montrer à ton papa ces messages.]]
+OU
+[[Tu quittes le groupe de messages et éteins ton téléphone.]]
+
+
+
+
+
+:: tu vas te coucher. {"position":"100,2675","size":"100,100"}
+Ce matin, tu te réveilles difficilement. Tu t'es réveillée plusieurs fois pendant la nuit et tu as mal dormi. Tu te demandes si tu vas supporter encore longtemps ces moqueries.
+Après ton petit-déjeuner, tu réalises qu'il est bientôt 8h00 et que l'école va commencer. Tu dis au revoir à tes parents qui partent eux aussi au travail et tu pars en courant. 
+[[Tu arrives à l'école juste à temps.]]
+
+
+
+:: tu écris : Laissez-le tranquille ! {"position":"725,5775","size":"100,100"}
+"Laissez le tranquille !" écris-tu à la suite des messages.
+"Calme-toi, on rigole!" écrit Anaïs.
+"Frank et Edouard, les frères lézard !" ajoute un autre.
+Puis, d'autres messages viennent s'ajouter à la suite.
+Tu réalises que ton message n'arrange rien. Tu quittes l'espace de messagerie.
+Que fais-tu maintenant ?
+
+[[Tu prends une BD pour te distraire avant le dîner.]]
+OU
+[[Tu téléphones à Edouard pour voir comment ça va.]]
+
+
+
+
+
+
+
+
+:: vous partez tous les deux. {"position":"800,5000","size":"100,100"}
+Au bout de quelques minutes, vous prenez des directions différentes et [[tu rentres chez toi.->Retour]]
+
+
+:: vous sortez de l'école. {"position":"125,1075","size":"100,100"}
+A peine sorties de l'école, Laura et toi voyez un groupe d'élèves rassemblés autour de Derek. On dirait qu'il est en train de montrer quelque chose sur son téléphone.
+Autour de lui, tu remarques qu'il y a Alyia, Laurent et d'autres élèves de la classe parallèle. 
+Soudain, Alyia remarque ta présence et dit quelque chose aux autres que tu n'entends pas. Ils se mettent alors tous à rire. Comment réagis-tu ?
+
+[[Tu t'approches d'eux pour leur demander ce qu'il y a de drôle.]]
+OU
+[[Tu demandes à Laura si elle veut bien aller voir ce qui se passe.]]
+OU
+[[Tu décides de partir rapidement et de rentrer chez toi.]]
+
+
+
+
+:: vous sortez. {"position":"700,4100","size":"100,100"}
+Dehors, tu vois Edouard qui se dirige vers une balançoire. Tu t'aperçois alors que Rachel, Marcus et Anaïs se dirigent vers lui. [[Tu t'approches aussi.]]
+
+
+:: vous vous dirigez vers la classe. {"position":"700,3850","size":"100,100"}
+En arrivant au vestiaire, tu entends d'autres remarques sur Edouard.
+- Edouard dort sûrement avec pleins de doudous, dit Anaïs.
+- Quel bébé ! s'exclame à son tour Marcus.
+- Il pourra aller jouer au coin poupées, ajoute Rachel en rigolant.
+Et là, Anaïs, Marcus et d'autres enfants se mettent à rire aussi. Toi, tu ne trouves pas ça très drôle...
+[[Tu entres en classe et tu t'installes à ta place.]]
+
+
+
+
+
+:: vous vous dirigez vers votre nouvelle classe. {"position":"100,0","size":"100,100"}
+En arrivant au vestiaire, tu entends soudain quelques remarques de camarades.
+- J'espère que Juliette ne sera pas assise devant moi, je ne verrai plus rien sinon, dit Alyia.
+- En tous cas à la gym, elle risque de battre le record du saut en hauteur, s'exclame à son tour Laurent.
+- Avec cette chaleur, elle pourra faire le parasol pour nous ! ajoute Derek en rigolant.
+Et là, Alyia, Laurent et d'autres enfants se mettent à rire aussi.
+Tu sens en toi de la colère se manifester. Enervée, [[tu entres en classe avec les autres élèves et tu t'installes à ta place.]]
+
+
+
+:: école 3 {"position":"1450,1375","size":"100,100"}
+Arrivée à l'école, tu rejoins Laura et tes autres camarades dans les rangs du préau. Au bout de quelques minutes, la maîtresse arrive et vous fait entrer en classe. Elle vous explique le programme de la matinée et vous vous mettez au travail. Tu es contente de faire des exercices, ça te permet d'arrêter de penser aux moqueries des autres.
+
+Cependant, durant la journée, Derek et d'autres élèves te traitent de girafe et te font des remarques que tu n'apprécies pas. Rapidement, ce sentiment de tristesse mélangé à de la colère resurgit en toi. Tu te demandes combien de temps tu pourras supporter tout ça. Visiblement, ils ont oublié ce qu'a dit la maîtresse hier !
+
+A la fin de la journée, la cloche sonne. Que fais-tu ?
+
+[[Tu sors de la classe.->Variante droite]]
+OU
+[[Tu retournes parler à ta maîtresse.]]
+
+
+
+
+
+:: école. {"position":"550,750","size":"100,100"}
+Arrivée à l'école, tu rejoins Laura et tes autres camarades dans les rangs du préau. Au bout de quelques minutes, la maîtresse arrive et vous fait entrer en classe. Elle vous explique le programme de la matinée et vous vous mettez au travail. Tu es contente de faire des exercices, ça te permet d'arrêter de penser aux moqueries des autres.
+
+Cependant, durant la journée, Derek et d'autres élèves te traitent de girafe et te font des remarques que tu n'apprécies pas. Rapidement, ce sentiment de tristesse mélangé à de la colère resurgit en toi. Tu te demandes combien de temps tu pourras supporter tout ça.
+
+A la fin de la journée, la cloche sonne. Que fais-tu ?
+
+[[Tu sors de la classe.]]
+OU
+[[Tu vas parler à ta maîtresse.]]
+
+
+
+
+:: écris rien 2 {"position":"1000,5750","size":"100,100"}
+Tu ne sais pas trop quoi faire, tu ne veux en tous cas pas participer à ces moqueries. Tu n'écris rien.
+Au bout d'un moment, les messages s'arrêtent. Ouf. 
+Le soir, à table, ta maman te demande si l'après-midi s'est bien passée. Tu réponds :
+
+[[- Oui, ça a été, on a dessiné notre sous-main.]]
+OU
+[[- Oui mais certains se moquent d'Edouard.]]
+
+
+
+
+
+
